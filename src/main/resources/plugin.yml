@@ -1,0 +1,5 @@
+name: LookingForFaction
+version: 1.0-SNAPSHOT
+author: ThatKawaiiSam
+description: Small plugin for player looking to get into a faction.
+main: io.github.thatkawaiisam.lff.LFFPlugin
