@@ -28,4 +28,5 @@ public class LFFPlugin extends PluginTemplate {
     public void onDisable() {
         getHandlers().forEach(Handler::disable);
     }
+
 }

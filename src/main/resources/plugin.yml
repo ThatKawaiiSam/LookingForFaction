@@ -1,5 +1,6 @@
 name: LookingForFaction
 version: 1.0-SNAPSHOT
 author: ThatKawaiiSam
-description: Small plugin for player looking to get into a faction.
+description: Allow players to more easily look for a faction!
+website: MC-Market
 main: io.github.thatkawaiisam.lff.LFFPlugin
